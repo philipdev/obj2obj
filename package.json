@@ -1,0 +1,25 @@
+{
+  "name": "obj2obj",
+  "version": "0.0.1",
+  "description": "async state flow engine",
+  "main": "./lib/objtemplate.js",
+  "private": false,
+  "author": "Philip Van Bogaert",
+  "license": "MIT",
+  "keywords": [
+    "mapping",
+    "rule",
+    "transform",
+    "object"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philipdev/obj2obj.git"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-mocha-test": "*",
+    "mocha": "^2.1.0"
+  }
+}
