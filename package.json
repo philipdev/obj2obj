@@ -1,7 +1,7 @@
 {
   "name": "obj2obj",
-  "version": "0.0.1",
-  "description": "async state flow engine",
+  "version": "0.1.0",
+  "description": "obj transformation utility",
   "main": "./lib/objtemplate.js",
   "private": false,
   "author": "Philip Van Bogaert",
